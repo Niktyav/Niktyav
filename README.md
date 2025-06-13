@@ -14,6 +14,8 @@
 - Scikit-learn
 - Pandas
 - NumPy
+- NLP
+- LLM
 - Управление проектами
 
 ### Образование
